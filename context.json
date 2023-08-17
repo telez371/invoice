@@ -1,0 +1,16 @@
+{
+            "invoiceNumber": "202209-01-0015",
+            "date": "Mon, Jan 30, 2023",
+            "billTo": "000001",
+            
+            "employeeData": [
+                {
+                    "item": "Django",
+                    "description": "add template",
+                    "price": "2355",
+                    "amount": "1"
+
+                }
+            ],
+            "total": "3000"
+        }
