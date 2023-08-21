@@ -9,6 +9,12 @@
             <price>2355</price>
             <amount>1</amount>
         </item>
+        <item>
+            <name>Flask</name>
+            <description>remove template</description>
+            <price>1234</price>
+            <amount>2</amount>
+        </item>
     </employeeData>
     <total>3000</total>
 </data>
