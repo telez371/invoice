@@ -1,0 +1,3 @@
+invoiceNumber,date,billTo,item,description,price,amount,total
+202209-01-0015,Mon, Jan 30, 2023,000001,Django,add template,2355,1,3000
+202209-01-0015,Mon, Jan 30, 2023,000001,Django,add template,2355,1,3000
