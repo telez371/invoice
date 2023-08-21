@@ -3,14 +3,18 @@
     <date>Mon, Jan 30, 2023</date>
     <billTo>000001</billTo>
     <employeeData>
-        <item>Django</item>
-        <description>add template</description>
-        <price>2355</price>
-        <amount>1</amount>
-        <item>Django</item>
-        <description>add template</description>
-        <price>2355</price>
-        <amount>1</amount>
+        <employee>
+            <item>Django</item>
+            <description>add template</description>
+            <price>2355</price>
+            <amount>1</amount>
+        </employee>
+        <employee>
+            <item>Django</item>
+            <description>add template</description>
+            <price>2355</price>
+            <amount>1</amount>
+        </employee>
     </employeeData>
     <total>3000</total>
 </root>
