@@ -7,6 +7,10 @@
         <description>add template</description>
         <price>2355</price>
         <amount>1</amount>
+        <item>Django</item>
+        <description>add template</description>
+        <price>2355</price>
+        <amount>1</amount>
     </employeeData>
     <total>3000</total>
 </root>
