@@ -1,11 +1,15 @@
 {
+          
     "invoiceNumber": "202209-01-0015",
-    "date": "2023-01-30",
+    "date": "Mon, Jan 30, 2023",
     "billTo": "000001",
+            
     "invoice_data": [
-        ["item", "Description", "price", "Amount"],
-        ["Service #1", "60", "50 USD", "3000 USD"],
-        ["Service #2", "30", "50 USD", "1500 USD"],
-        ["Total", "", "", "4500 USD"]
-    ]
+    ["item", "Description", "price", "awdawd", "Amount"],
+    ["Service #1", "60", "50 USD", "30", "3000 USD"],
+    ["Service #2", "30", "50 USD", "30", "1500 USD"]
+],
+            
+    "invoice_summary": "Total: 4500USD",
+
 }
