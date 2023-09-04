@@ -3,18 +3,27 @@
     <date>Mon, Jan 30, 2023</date>
     <billTo>000001</billTo>
     <invoice_data>
-        <item>Service #1</item>
-        <Description>60</Description>
-        <price>50 USD</price>
-        <awdawd>30</awdawd>
-        <Amount>3000 USD</Amount>
-    </invoice_data>
-    <invoice_data>
-        <item>Service #2</item>
-        <Description>30</Description>
-        <price>50 USD</price>
-        <awdawd>30</awdawd>
-        <Amount>1500 USD</Amount>
+        <row>
+            <item>item</item>
+            <Description>Description</Description>
+            <price>price></price>
+            <awdawd>awdawd</awdawd>
+            <Amount>Amount</Amount>
+        </row>
+        <row>
+            <item>Service #1</item>
+            <Description>60</Description>
+            <price>50 USD</price>
+            <awdawd>30</awdawd>
+            <Amount>3000 USD</Amount>
+        </row>
+        <row>
+            <item>Service #2</item>
+            <Description>30</Description>
+            <price>50 USD</price>
+            <awdawd>30</awdawd>
+            <Amount>1500 USD</Amount>
+        </row>
     </invoice_data>
     <invoice_summary>Total: 4500USD</invoice_summary>
 </invoice>
